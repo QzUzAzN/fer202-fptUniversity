@@ -1,0 +1,14 @@
+{
+  "name": "fpt-university",
+  "version": "1.0.0",
+  "description": "Demo for Studnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FPTUniversity",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
